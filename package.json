@@ -1,0 +1,23 @@
+{
+  "name": "carlos8a-codember-challenges-2024",
+  "version": "1.0.0",
+  "description": "My solutions for the Codember Coding Challenges by midudev",
+  "type": "module",
+  "scripts": {
+    "test-01": "jest --runInBand tests/challenge-01.test.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosUlisesOchoa/Codember-Challenges-2024.git"
+  },
+  "author": "Carlos Ochoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosUlisesOchoa/Codember-Challenges-2024/issues"
+  },
+  "homepage": "https://github.com/CarlosUlisesOchoa/Codember-Challenges-2024",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
