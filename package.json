@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "test-01": "jest --runInBand tests/challenge-01.test.js",
-    "test": "jest"
+    "test": "jest",
+    "tests": "jest"
   },
   "repository": {
     "type": "git",
