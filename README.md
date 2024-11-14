@@ -12,7 +12,7 @@ My solutions for the [Codember Coding Challenges](https://www.codember.dev) By [
 $ CarlosUlisesOchoa | ************
 ```
 
-[Not solved yet](#!)
+[Solution](./src/challenge-01.ts)
 
 ## How to run tests 🏃‍♂️‍➡️
 
