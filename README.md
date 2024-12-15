@@ -14,6 +14,22 @@ $ CarlosUlisesOchoa | ************
 
 [Solution](./src/challenge-01.ts)
 
+## Challenge #2: Detecting unwanted access
+
+![image](https://github.com/user-attachments/assets/20eeef44-7951-4e97-938a-d06d7dbaa05c)
+
+```bash
+submit <valid_count>true<invalid_count>false
+```
+
+For example, if there are 10 valid attempts and 5 invalid attempts, send:
+
+```bash
+submit 10true5false
+```
+
+[Solution](./src/challenge-02/challenge-02.ts)
+
 ## How to run tests 🏃‍♂️‍➡️
 
 ```
