@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "test-01": "jest --runInBand tests/challenge-01.test.js",
+    "test-02": "jest --runInBand tests/challenge-02.test.js",
     "test": "jest",
     "tests": "jest"
   },
